@@ -7,6 +7,10 @@
     "name": "Himanshu Pal",
     "email": "mailtohimanshupal@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:himanshupal/portfolio.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
